@@ -88,17 +88,6 @@ netwalk/
 ├── DAA_R1.py
 ├── README.md
 
-
----
-
-## ▶️ How to Run
-
-```bash
-git clone https://github.com/your-username/netwalk.git
-cd netwalk
-python main.py
-
-
 ---
 
 ## 🧾 Conclusion
@@ -109,3 +98,12 @@ This project not only strengthens understanding of graph traversal algorithms bu
 
 Overall, NETWALK serves as a strong example of applying algorithmic thinking to solve problems, build interactive applications, and simulate intelligent behavior, making it a valuable learning experience in both DSA and software development.
 
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/your-username/netwalk.git
+cd netwalk
+python main.py 
+---
+ 
