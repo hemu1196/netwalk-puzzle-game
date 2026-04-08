@@ -83,3 +83,29 @@ User Interface (Tkinter)
 ---
 
 ## 📂 Project Structure
+netwalk/
+│
+├── DAA_R1.py
+├── README.md
+
+
+---
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/your-username/netwalk.git
+cd netwalk
+python main.py
+
+
+---
+
+## 🧾 Conclusion
+
+The NETWALK project successfully demonstrates the practical application of core Design and Analysis of Algorithms (DAA) concepts in a real-world interactive system. By modeling the puzzle as a graph, the project effectively utilizes Depth First Search (DFS) to generate a valid spanning tree, Breadth First Search (BFS) to simulate power propagation, and a Greedy approach for automated decision-making by the computer player.
+
+This project not only strengthens understanding of graph traversal algorithms but also highlights how theoretical concepts can be integrated with user interface design using Tkinter. The combination of algorithmic logic and visualization makes the system both educational and engaging.
+
+Overall, NETWALK serves as a strong example of applying algorithmic thinking to solve problems, build interactive applications, and simulate intelligent behavior, making it a valuable learning experience in both DSA and software development.
+
